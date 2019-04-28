@@ -1,5 +1,9 @@
 # Hello-world
+2019-4-28
 
+
+this is my start in github
+master
 i hope that i can change myself in there
 strive careful enjoyful
 
